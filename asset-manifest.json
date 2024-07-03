@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/brazilCounter/static/css/main.d5289b2f.css",
-    "main.js": "/brazilCounter/static/js/main.6042b24d.js",
+    "main.js": "/brazilCounter/static/js/main.daff7b73.js",
     "static/media/zlato.png": "/brazilCounter/static/media/zlato.5672edf6b8a0ff4e1a23.png",
     "static/media/ukoly.png": "/brazilCounter/static/media/ukoly.506fd425bf7745ab8431.png",
     "static/media/objevy.png": "/brazilCounter/static/media/objevy.ddb00ec0c651186665a5.png",
@@ -12,10 +12,10 @@
     "static/media/vyrobky.png": "/brazilCounter/static/media/vyrobky.bc333d83b1f3f90fd7dc.png",
     "index.html": "/brazilCounter/index.html",
     "main.d5289b2f.css.map": "/brazilCounter/static/css/main.d5289b2f.css.map",
-    "main.6042b24d.js.map": "/brazilCounter/static/js/main.6042b24d.js.map"
+    "main.daff7b73.js.map": "/brazilCounter/static/js/main.daff7b73.js.map"
   },
   "entrypoints": [
     "static/css/main.d5289b2f.css",
-    "static/js/main.6042b24d.js"
+    "static/js/main.daff7b73.js"
   ]
 }
